@@ -1,2 +1,2 @@
 # hedgerm.github.io
-My personal website
+Learning Github is fun.
